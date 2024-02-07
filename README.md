@@ -41,7 +41,7 @@ To ensure fair comparisons and accurate analysis, we've normalized the entire da
 
 ## Data Visualization
 
-Exploring the complex and multifaceted issue of crime through various visualizations, focusing on different types of crimes, their impacts, and the factors influencing crime. You can see these viaulaizations results in the jupyter notebook.
+Exploring the complex and multifaceted issue of crime through various visualizations, focusing on different types of crimes, their impacts, and the factors influencing crime. You can see these viaulaizations results in the jupyter notebook. You can check the tableau dashboard in my repository.
 
 ## Key Takeaways
 
